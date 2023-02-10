@@ -1,17 +1,17 @@
 # GIISC : Genshin-Impact Invocation Stones Calculator
-GIISC est un programme rédigé dans le langage python qui vous aide à calculer le nombre de vœux que vous pouvez faire sans sortir votre petite calculatrice !
+GIISC is a program written in the python language that helps you calculate the number of wishes you can make without taking out your little calculator!
 
 ## Explication
-Lorsque vous ouvrez l'exécutable "GIISC.exe", 2 cases s'offrent à vous. La première est le nombre de primogems possédées à renseigner. La seconde case est le nombre de vœux (fatalitée comme destinée) à renseigner. 
+When you open the executable "GIISC.exe", 2 boxes are offered to you. The first one is the number of owned primogems to fill in. The second box is the number of wishes (fatality and destined) to be filled in.
 <br> <br>
-Lorsque vous appuyerez sur "Calculate", l'application vous renverra le nombre total d'invocations possibles, le nombre de multi possibles ainsi que la quantité de primogems restantes ne pouvant être converties en vœux.
+When you press "Calculate", the application will return the total number of possible invocations, the number of possible multi's and the amount of remaining primogems that cannot be converted into wishes.
 
 ## Installation
-Sur la droite du répertoire GitHub, vous trouverez une catégorie "Releases". En cliquant sur "Programme exécutable GIISC", ça vous enverra sur la page d'installation du programme. Vous n'aurez plus qu'à cliquer sur "GIISC.exe" et le tour est joué !
+On the right side of the GitHub directory, you will find a "Releases" category. By clicking on "GIISC executable program", it will send you to the program installation page. You just have to click on "GIISC.exe" and it's done !
 
 # Licence
-Le logiciel n'étant pas fourni avec le code source, il n'est soumis à aucune licence le protégeant. <br>
-Seul le ©Copyright présent le protège pouvant ainsi y revendiquer mes droits dans le cas de revente.
+As the software is not provided with the source code, it is not subject to any license protecting it. <br>
+Only the ©Copyright present protects it being able to claim my rights there in the event of resale.
 
 # Logiciel
 ![App Screenshot](https://github.com/Yatsuuw/GIIFC/blob/master/images/capture.png?raw=true)
