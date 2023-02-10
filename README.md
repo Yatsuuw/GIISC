@@ -12,3 +12,6 @@ Sur la droite du répertoire GitHub, vous trouverez une catégorie "Releases". E
 # Licence
 Le logiciel n'étant pas fourni avec le code source, il n'est soumis à aucune licence le protégeant. <br>
 Seul le ©Copyright présent le protège pouvant ainsi y revendiquer mes droits dans le cas de revente.
+
+# Logiciel
+![Image du logiciel](https://imgur.com/a/R6LuZAc)
