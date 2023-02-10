@@ -13,5 +13,5 @@ On the right side of the GitHub directory, you will find a "Releases" category. 
 As the software is not provided with the source code, it is not subject to any license protecting it. <br>
 Only the ©Copyright present protects it being able to claim my rights there in the event of resale.
 
-# Logiciel
+# Application
 ![App Screenshot](https://github.com/Yatsuuw/GIIFC/blob/master/images/capture.png?raw=true)
