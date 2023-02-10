@@ -15,3 +15,5 @@ Only the ©Copyright present protects it being able to claim my rights there in 
 
 ## Application
 ![App Screenshot](https://github.com/Yatsuuw/GIIFC/blob/master/images/capture.png?raw=true)
+<br>
+![App Screenshot 2](https://github.com/Yatsuuw/GIIFC/blob/master/images/capture2.png?raw=true)
