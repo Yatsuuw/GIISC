@@ -5,6 +5,8 @@ GIISC is a program written in the python language that helps you calculate the n
 When you open the executable "GIISC.exe", 2 boxes are offered to you. The first one is the number of owned primogems to fill in. The second box is the number of wishes (fatality and destined) to be filled in.
 <br> <br>
 When you press "Calculate", the application will return the total number of possible invocations, the number of possible multi's and the amount of remaining primogems that cannot be converted into wishes.
+<br>
+When entering the number of primogems, you can put a space between the thousands and the rest or a dot. This will not change the calculation.
 
 ## Installation
 On the right side of the GitHub directory, you will find a "Releases" category. By clicking on "GIISC executable program", it will send you to the program installation page. You just have to click on "GIISC.exe" and it's done !
