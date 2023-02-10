@@ -9,9 +9,9 @@ When you press "Calculate", the application will return the total number of poss
 ## Installation
 On the right side of the GitHub directory, you will find a "Releases" category. By clicking on "GIISC executable program", it will send you to the program installation page. You just have to click on "GIISC.exe" and it's done !
 
-# Licence
+## Licence
 As the software is not provided with the source code, it is not subject to any license protecting it. <br>
 Only the ©Copyright present protects it being able to claim my rights there in the event of resale.
 
-# Application
+## Application
 ![App Screenshot](https://github.com/Yatsuuw/GIIFC/blob/master/images/capture.png?raw=true)
