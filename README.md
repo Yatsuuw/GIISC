@@ -14,4 +14,4 @@ Le logiciel n'étant pas fourni avec le code source, il n'est soumis à aucune l
 Seul le ©Copyright présent le protège pouvant ainsi y revendiquer mes droits dans le cas de revente.
 
 # Logiciel
-![](https://imgur.com/a/R6LuZAc)
+![App Screenshot](https://imgur.com/a/R6LuZAc)
